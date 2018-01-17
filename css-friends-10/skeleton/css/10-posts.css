@@ -1,0 +1,12 @@
+/* PHASE 10: Posts */
+.post-footer {
+  display: flex;
+}
+
+.posts {
+  display: flex;
+}
+
+.posts-list {
+  width: 500px;
+}
